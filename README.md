@@ -57,7 +57,7 @@
 1. **התחברות למספר WhatsApp Sandbox של Twilio:**
    - עליך להתחבר ל-Sandbox של WhatsApp כדי להתחיל את האינטגרציה.
    - היכנס לדף ה-Sandbox ב-Twilio Console: [WhatsApp Sandbox](https://console.twilio.com/us1/develop/sms/try-it-out/whatsapp-learn).
-   - שם תמצא קוד ייחודי שצריך לשלוח למספר ה-Sandbox כדי לאמת את החיבור.
+   - שם תמצא קוד\קוד QR ייחודי שצריך לשלוח\לסרוק ולשלוח למספר ה-Sandbox כדי לאמת את החיבור.
 
 2. **שליחת ההודעה הראשונה:**
    - השתמש בטלפון שלך כדי לשלוח את קוד האימות למספר ה-Sandbox של Twilio.
